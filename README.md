@@ -4,11 +4,11 @@ Prof. Jackie degli Innocenti
 Senior Engineer
 -------------------
 
-***Professor Emeritus of CS at IED University, North Italy***
+**_Former_ Professor of Web Development at Europe Institute of Design**
 
 ***Work experience of 10 years as Software Engineer***
 
-Contact me for any inquiry about my professional availability and job proposal:
+Looking to work for a big company to the next years, be in contact with me at:
 [info@jackiedeglinnocenti.com][1]
 
 🤙 ⭐ 🌎 🧑‍🚀 🚀 🚧
@@ -18,139 +18,116 @@ GitHub: https://github.com/jackie-d
 LinkedIn: https://www.linkedin.com/in/jackiedeglinnocenti/
 
 
-### FRONTEND TECHNICAL SKILLS
-
-**Angular 11 - Typescript**  
+### FRONTEND TECHNICAL SKILLS  
+  
+**Angular - 10/10**  
+TypeScript  
+Ionic  
 RxJS  
-Clean Architecture, SOLID, DDD  
-Socket.io  
-
-
-**Vue.js - Typescript**  
-Vuex.js  
-Axios  
-Nuxt.js  
-
-**React.js – ES6**  
+  
+**React.js - 8/10**  
 React Native  
 Next.js  
 Redux.js  
-
-**Node.js**  
+  
+**Vue.js - 8/10**  
+Vuex.js  
+Axios  
+Nuxt.js  
+  
+**Node.js - 7/10**  
 Express.js  
 Webpack, Gulp  
 Yarn  
-
-**Design**  
-Material  
-Bootstrap  
-Grid, Flex  
-
-**Mobile (plus)**  
-Ionic 5 Senior  
-Android Java Senior  
-Cordova Community Support  
-XCode SDK Senior  
-iOs Objective-C Junior  
-
-**Tools**  
-Jest Unit Testing  
-Cypress E2E Testing  
-GitHub CI, GitLab CI/CD, CircleCI  
-
-**Cloud**  
-AWS  
-Azure  
-Debian AMPP Admin  
-Docker  
-
-**DB**  
-GraphQL  
-MongoDB  
-ElasticSearch  
-MySQL, PostgreSQL  
-
-
-### BACKEND TECHNICAL SKILLS  
-
-**PHP**  
-Laravel, Eloquent, Symfony  
-Clean Architecture, SOLID, DDD  
-PSR-7, Composer, Satis  
-
-**Java**  
-RxJava  
-OOP, Spring, Hibernate  
-Maven  
-
-**C#**  
-.NET  
-ASP  
-MVC  
-
-**REST APIs**  
-JSON, JWT  
-SOAP, XML  
-OAuth, S2S  
-
-**Web Stack**  
-HTML5  
-CSS3, LESS  
-JS Senior  
-
-**DB**  
-MySQL  
-PostgreSQL, MSSQL  
-MongoDB  
-ElasticSearch, Redis, GraphQL  
-
-**Mobile (plus)**  
-Android Java Senior  
-Xamarin Senior  
-iOs Objective-C Junior  
-
-**Tools**  
-PHPUnit  
-JUnit  
-GitLab CI/CD, Jenkins  
-HTTP Protocols  
-
-**Cloud**  
-Debian AMPP Admin  
-Apache Tomcat 7  
-IIS  
-Nginx  
-Azure  
-AWS  
-Docker  
-
-
-### GENERAL SKILLS  
-
-Emeritus CS Professor  
-Principal Engineer  
-Technical leader  
-
-Clean Architect  
-Clean Coder  
-Legacy Refactor  
-
-Strong and deep tech skills  
-Team key member  
-Continuous improver  
-
-Clean Speaker (designed)  
+  
+### BACKEND SKILLS    
+  
+**PHP - 10/10**  
+- Laravel, Eloquent, Symfony  
+- Clean Architecture, SOLID, DDD, DRY  
+- PSR-7, Composer, Satis  
+  
+**Java - 9/10**  
+- Java 8, RxJava  
+- Spring Boot, Hibernate  
+- Maven  
+  
+**C# - 8/10**  
+- .NET 5
+- ASP  
+- MVC  
+  
+**REST APIs - 9/10**  
+- JSON, JWT  
+- SOAP, XML  
+- OAuth, S2S  
+  
+DATABASE SKILLS  
+---  
+MySQL - 10/10  
+PostgreSQL, MSSQL - 8/10  
+GraphQL - 8/10  
+ElasticSearch - 8/10  
+Redis - 6/10  
+MongoDB - 8/10  
+  
+TOOLS  
+--- 
+JUnit: TDD, Unit test - 8/10  
+Jest, Moka, Jasmine: Unit test - 7/10  
+PHPUnit - 7/10  
+Cypress e2e test - 8/10  
+GitLab CI/CD - 9/10  
+  
+CLOUD AND SERVER SKILL  
+---  
+Debian Apache/Nginx - 9/10  
+Apache Tomcat - 8/10  
+Azure - 7/10  
+AWS - 8/10  
+Docker - 7/10  
+  
+MOBILE SKILLS  
+---  
+Android Java - 9/10  
+Ionic 5 - 9/10  
+React Native - 8/10  
+Cordova - 9/10  
+XCode SDK - 8/10  
+iOs Objective-C - beginner  
+  
+  
+GENERAL SKILLS  
+---  
+Former Professor of Web Development _(Europe Institute of Design University)_  
+Technical Leader  
+Software Architect  
 Engineer Evangelist  
-Decision maker  
+  
+  
+FAVORITE BUSINESS  
+---  
+Financial Markets  
+Retail  
+Education  
+Sustainability & Environment  
+Social and Entertainment  
+Housing  
 
 ---
 
-Contact me for any inquiry about my professional availability and job proposal:
-info@jackiedeglinnocenti.com
+I have disposed some demo on my GitHub for Vue, .NET 5, Spring Boot and Angular project architecture to review and to explain how I work as possible candidate for applications.
+
+_I'm my own family and I'm a trans-woman, these are the reason for me to be strong, adult, happy and mindful!_ 🌳 🏳️‍🌈
+
+---
+
+Looking to work for a big company to the next years, be in contact with me at:
+[info@jackiedeglinnocenti.com][1]
 
 _– Nosce te ipsum_
 
-_GitHub Senior Developer December 2020 - Jackie degli Innocenti_
+_GitHub Senior Engineer February 2021 - Jackie degli Innocenti_
 
 
   [1]: http://mailto:info@jackiedeglinnocenti.com
