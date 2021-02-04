@@ -11,7 +11,7 @@ Senior Engineer
 Looking to work for a big company to the next years, be in contact with me at:
 [info@jackiedeglinnocenti.com][1]
 
-🤙 ⭐ 🌎 🧑‍🚀 🚀 🚧
+⭐ 🌎 ⭐ ⭐ ⭐ ⭐
 
 GitHub: https://github.com/jackie-d
 
