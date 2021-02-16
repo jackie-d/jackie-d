@@ -1,133 +1,82 @@
-Prof. Jackie degli Innocenti
-============================
+10 years of work in the technology industries for the online environment.
+My position in the team is of: Senior/Principal Engineer
 
-Senior Engineer
--------------------
+In the academy I've been on the Professor role of the Web Development course for some years.
+I've the CTO degree and some certifications on the IT field. I had working since 2010 to now in the professional department.
 
-**_Former_ Professor of Web Development at Europe Institute of Design**
-
-***Work experience of 10 years as Software Engineer***
-
-Looking to work for a big company to the next years, be in contact with me at:
-[info@jackiedeglinnocenti.com][1]
-
-⭐ 🌎 ⭐ ⭐ ⭐ ⭐
-
-GitHub: https://github.com/jackie-d
-
-LinkedIn: https://www.linkedin.com/in/jackiedeglinnocenti/
+### LOOK ON THE CODE UPLOADED ON THE DEMO PROJECTS THAT FOLLOWS HERE.
 
 
-### FRONTEND TECHNICAL SKILLS  
-  
-**Angular - 10/10**  
-TypeScript  
-Ionic  
-RxJS  
-  
-**React.js - 8/10**  
-React Native  
-Next.js  
-Redux.js  
-  
-**Vue.js - 8/10**  
-Vuex.js  
-Axios  
-Nuxt.js  
-  
-**Node.js - 7/10**  
-Express.js  
-Webpack, Gulp  
-Yarn  
-  
-### BACKEND SKILLS    
-  
-**PHP - 10/10**  
-- Laravel, Eloquent, Symfony  
-- Clean Architecture, SOLID, DDD, DRY  
-- PSR-7, Composer, Satis  
-  
-**Java - 9/10**  
-- Java 8, RxJava  
-- Spring Boot, Hibernate  
-- Maven  
-  
-**C# - 8/10**  
-- .NET 5
-- ASP  
-- MVC  
-  
-**REST APIs - 9/10**  
-- JSON, JWT  
-- SOAP, XML  
-- OAuth, S2S  
-  
-DATABASE SKILLS  
----  
-MySQL - 10/10  
-PostgreSQL, MSSQL - 8/10  
-GraphQL - 8/10  
-ElasticSearch - 8/10  
-Redis - 6/10  
-MongoDB - 8/10  
-  
-TOOLS  
---- 
-JUnit: TDD, Unit test - 8/10  
-Jest, Moka, Jasmine: Unit test - 7/10  
-PHPUnit - 7/10  
-Cypress e2e test - 8/10  
-GitLab CI/CD - 9/10  
-  
-CLOUD AND SERVER SKILL  
----  
-Debian Apache/Nginx - 9/10  
-Apache Tomcat - 8/10  
-Azure - 7/10  
-AWS - 8/10  
-Docker - 7/10  
-  
-MOBILE SKILLS  
----  
-Android Java - 9/10  
-Ionic 5 - 9/10  
-React Native - 8/10  
-Cordova - 9/10  
-XCode SDK - 8/10  
-iOs Objective-C - beginner  
-  
-  
-GENERAL SKILLS  
----  
-Former Professor of Web Development _(Europe Institute of Design University)_  
-Technical Leader  
-Software Architect  
-Engineer Evangelist  
-  
-  
-FAVORITE BUSINESS  
----  
-Financial Markets  
-Retail  
-Education  
-Sustainability & Environment  
-Social and Entertainment  
-Housing  
+#### BACKEND SKILLS
+.NET 5 ✭✭✭✭✩ 
+.NET Core ✭✭✭✭✩ 
+ASP MVC C# ✭✭✭✭✩ 
+ 
+Java 17 ✭✭✭✭✭ 
+Spring Boot ✭✭✭✭✩ 
+Hibernate, JPA ✭✭✭✭✩ 
+Maven ✭✭✭✭✭ 
+RxJava ✭✭✭✭✭ 
+ 
+PHP 8 ✭✭✭✭✭ 
+Laravel ✭✭✭✭✭ 
+Symfony ✭✭✭✩✩ 
+Clean Architecture (SOLID, DDD, DRY) ✭✭✭✭✭ 
+ 
+REST, JSON ✭✭✭✭✭ 
+SOAP, XML ✭✭✭✩✩ 
+OAuth, SSO ✭✭✭✩✩ 
+ 
+#### FRONTEND SKILLS 
+Angular ✭✭✭✭✭ 
+TypeScript ✭✭✭✭✭ 
+RxJS ✭✭✭✭✩ 
+ 
+React.js ✭✭✭✭✩ 
+React Native ✭✭✭✭✩ 
+Next.js ✭✭✭✭✩ 
+Redux.js ✭✭✭✭✩ 
+ 
+Vue.js ✭✭✭✭✩ 
+Vuex.js ✭✭✭✭✩ 
+Axios ✭✭✭✭✭ 
+Nuxt.js ✭✭✭✭✩ 
+ 
+Node.js ✭✭✭✭✩ 
+Webpack, Gulp ✭✭✭✩✩ 
+Express.js ✭✭✭✭✭ 
+Yarn, Npm ✭✭✭✭✭ 
+ 
+#### DATABASE SKILLS 
+MySQL ✭✭✭✭✭ 
+PostgreSQL, MSSQL ✭✭✭✭✩ 
+GraphQL ✭✭✭✭✩ 
+ElasticSearch ✭✭✭✭✩ 
+Redis ✭✭✭✩✩ 
+MongoDB ✭✭✭✭✩ 
+ 
+#### TOOLS 
+JUnit: TDD, Unit test ✭✭✭✭✩ 
+Jest, Moka, Jasmine: Unit test ✭✭✭✭✩ 
+PHPUnit ✭✭✭✭✩ 
+Cypress e2e test ✭✭✭✭✩ 
+GitLab CI/CD ✭✭✭✭✩ 
+
+CLOUD AND SERVER SKILL
+Debian Apache/Nginx ✭✭✭✭✭
+Apache Tomcat ✭✭✭✭✭
+Docker ✭✭✭✩✩
+Azure ✭✭✭✭✩
+AWS ✭✭✭✭✩
+
+#### MOBILE SKILLS 
+Android Java ✭✭✭✭✭ 
+XCode SDK ✭✭✭✭✩ 
+Objective-C ✭✩✩✩✩ 
+Ionic 5 ✭✭✭✭✭ 
+React Native ✭✭✭✭✩ 
+Cordova ✭✭✭✭✭ 
 
 ---
 
-I have disposed some demo on my GitHub for Vue, .NET 5, Spring Boot and Angular project architecture to review and to explain how I work as possible candidate for applications.
-
-_I'm my own family and I'm a trans-woman, these are the reason for me to be strong, adult, happy and mindful!_ 🌳 🏳️‍🌈
-
----
-
-Looking to work for a big company to the next years, be in contact with me at:
-[info@jackiedeglinnocenti.com][1]
-
-_– Nosce te ipsum_
-
-_GitHub Senior Engineer February 2021 - Jackie degli Innocenti_
-
-
-  [1]: http://mailto:info@jackiedeglinnocenti.com
+I’m a software engineer that for all her life has brought on innovative projects for companies of the territory. I’m a person in the tech field and I have realised many products and also improved business techs. I’m able to operate on very many languages and technologies and in environments’ online.
